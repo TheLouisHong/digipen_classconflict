@@ -15,6 +15,7 @@ Parses SRS classes and searchs for non-conflicting elective or class based on yo
 
 ## How to create your current class file
 Write your class ID on each line and save to a file. Like this
+
     ANI101F18-B
     ART101F18-B
     ... etc etc
