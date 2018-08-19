@@ -18,6 +18,39 @@ Parses SRS classes and searchs for non-conflicting elective or class based on yo
 ### For example
 `.\classconflict srs_2018_fall.txt example_classes.txt`
 
+# More Info
+
+## Example Output
+    // These are classes you cannot pick because it conflicts with your current schedule
+    ANI101F18-A          CONFLICT FOUND: CS330F18-A, GAM300F18-A
+    ANI101F18-B          CONFLICT FOUND: CS330F18-A
+    ANI101F18-C          CONFLICT FOUND: CS330F18-A
+    ANI101F18-D          CONFLICT FOUND: CS330F18-A
+    ANI101F18-E          CONFLICT FOUND: CS330F18-A
+    ANI101F18-F          CONFLICT FOUND: CS330F18-A
+    ANI300F18-A          CONFLICT FOUND: CS330F18-A, MAT364F18-A
+    ANI398F18-A          CONFLICT FOUND: GAM300F18-A
+    ART101F18-A          CONFLICT FOUND: MAT364F18-A
+    ART101F18-B          CONFLICT FOUND: MAT364F18-A
+    ART101F18-C          CONFLICT FOUND: MAT364F18-A
+    ART101F18-D          CONFLICT FOUND: MAT364F18-A
+    ART101F18-E          CONFLICT FOUND: GAM300F18-A, MAT364F18-A
+    ...
+    // These are classes you possibly can pick, except for when you're missing a prerequisites
+    ANI300F18-B
+    ANI350F18-A
+    ANI399F18-A
+    ANI699F18-2
+    ANI699F18-I
+    ART111F18-A
+    ART113F18-A
+    ART115F18-A
+    ART126F18-A
+    ART200F18-A
+    ART200F18-B
+    ...
+
+
 # LICENSE
 Copyright 2018 Louis Hong
 
