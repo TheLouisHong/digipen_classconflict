@@ -14,7 +14,10 @@ Parses SRS classes and searchs for non-conflicting elective or class based on yo
 ![](https://thumbs.gfycat.com/AltruisticSkeletalBeardeddragon-size_restricted.gif)
 
 ## How to create your current class file
-Just write your class ID on each line and save to a file
+Write your class ID on each line and save to a file. Like this
+    ANI101F18-B
+    ART101F18-B
+    ... etc etc
 
 ## How to use the EXE
 `.\classconflict <path to class table copied from SRS> <path to a list of your current class IDs>`
