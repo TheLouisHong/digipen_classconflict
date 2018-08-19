@@ -1,6 +1,8 @@
 # DigiPen SRS Class Conflict Tool
 Parses SRS classes and searchs for non-conflicting elective or class based on your current schedule.
 
+# [Download](https://github.com/TheLouisHong/digipen_classconflict/releases/download/1.0.0/ClassConflict.by.Louis.zip)
+
 # How to use
 
 ## How to create class table file
