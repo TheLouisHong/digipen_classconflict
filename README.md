@@ -13,6 +13,9 @@ Parses SRS classes and searchs for non-conflicting elective or class based on yo
 #### Step 3. Copy from the entire table and save to a text file.
 ![](https://thumbs.gfycat.com/AltruisticSkeletalBeardeddragon-size_restricted.gif)
 
+## How to create your current class file
+Just write your class ID on each line and save to a file
+
 ## How to use the EXE
 `.\classconflict <path to class table copied from SRS> <path to a list of your current class IDs>`
 ![](https://thumbs.gfycat.com/FirstFirsthandIrishsetter-size_restricted.gif)
