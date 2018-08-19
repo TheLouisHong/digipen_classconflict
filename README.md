@@ -3,7 +3,7 @@ Parses SRS classes and searchs for non-conflicting elective or class based on yo
 
 # [Download](https://github.com/TheLouisHong/digipen_classconflict/releases/download/1.0.0/ClassConflict.by.Louis.zip)
 
-# How to use
+# Instructions
 
 ## How to create class table file
 #### Step 1. Go to SRS class registration page
