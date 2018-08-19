@@ -1,0 +1,3132 @@
+Add	
+ANI 101	  3 credits
+(ANI101F18-A)
+De Fato	MCCAY
+  Tuesdays 12:00pm-2:50pm
+
+MICHELANGELO
+  Mondays 4:30pm-6:20pm	
+Capacity	 15
+Enrollment	 16
+Available	 0
+Add	
+ANI 101	  3 credits
+(ANI101F18-B)
+De Fato	MCCAY
+  Fridays 12:30pm-3:20pm
+
+MICHELANGELO
+  Mondays 4:30pm-6:20pm	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+ANI 101	  3 credits
+(ANI101F18-C)
+De Fato	MICHELANGELO
+  Mondays 4:30pm-6:20pm
+
+MCCAY
+  Fridays 4:30pm-7:20pm	
+Capacity	 15
+Enrollment	 16
+Available	 0
+Add	
+ANI 101	  3 credits
+(ANI101F18-D)
+Morgan	MCCAY
+  Tuesdays 9:00am-11:50am
+
+MICHELANGELO
+  Mondays 4:30pm-6:20pm	
+Capacity	 15
+Enrollment	 10
+Available	 5
+Add	
+ANI 101	  3 credits
+(ANI101F18-E)
+Morgan	MCCAY
+  Wednesdays 9:00am-11:50am
+
+MICHELANGELO
+  Mondays 4:30pm-6:20pm	
+Capacity	 15
+Enrollment	 16
+Available	 0
+Add	
+ANI 101	  3 credits
+(ANI101F18-F)
+Morgan	MCCAY
+  Thursdays 9:00am-11:50am
+
+MICHELANGELO
+  Mondays 4:30pm-6:20pm	
+Capacity	 15
+Enrollment	 14
+Available	 1
+Add	
+ANI 300	  3 credits
+(ANI300F18-A)
+Kaufman	TURING
+  Mondays 2:30pm-5:20pm	
+Capacity	 12
+Enrollment	 5
+Available	 7
+Add	
+ANI 300	  3 credits
+(ANI300F18-B)
+Kaufman	REYNAUD
+  Mondays 11:00am-1:50pm	
+Capacity	 12
+Enrollment	 5
+Available	 7
+Add	
+ANI 350	  3 credits
+(ANI350F18-A)
+Kaufman	TURING
+  Mondays 6:00pm-8:50pm	
+Capacity	 12
+Enrollment	 2
+Available	 10
+Add	
+ANI 398	  3 credits
+(ANI398F18-A)
+Francoeur	MEILES
+  Tuesdays 11:00am-1:50pm	
+Capacity	 15
+Enrollment	 2
+Available	 13
+Add	
+ANI 399	  3 credits
+(ANI399F18-A)
+Mathues	MEILES
+  Fridays 9:00am-11:50am	
+Capacity	 23
+Enrollment	 8
+Available	 15
+Add	
+ANI 699	  3 credits
+(ANI699F18-2)
+De Fato	Independent	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+ANI 699	  3 credits
+(ANI699F18-I)
+De Fato	Independent
+
+Project Meetings	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+ART 101	  3 credits
+(ART101F18-A)
+Moody	HOKUSAI
+  Fridays 9:00am-11:50am
+
+VAN GOGH
+  Mondays 2:30pm-4:20pm	
+Capacity	 15
+Enrollment	 18
+Available	 0
+Add	
+ART 101	  3 credits
+(ART101F18-B)
+Lorefice	HOKUSAI
+  Thursdays 9:00am-11:50am
+
+VAN GOGH
+  Mondays 2:30pm-4:20pm	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+ART 101	  3 credits
+(ART101F18-C)
+Moody	HOKUSAI
+  Wednesdays 9:00am-11:50am
+
+VAN GOGH
+  Mondays 2:30pm-4:20pm	
+Capacity	 15
+Enrollment	 14
+Available	 1
+Add	
+ART 101	  3 credits
+(ART101F18-D)
+Kang-O'Higgins	BERNINI
+  Wednesdays 1:00pm-3:50pm
+
+VAN GOGH
+  Mondays 2:30pm-4:20pm	
+Capacity	 15
+Enrollment	 17
+Available	 0
+Add	
+ART 101	  3 credits
+(ART101F18-E)
+Moody	BERNINI
+  Tuesdays 12:00pm-2:50pm
+
+VAN GOGH
+  Mondays 2:30pm-4:20pm	
+Capacity	 15
+Enrollment	 12
+Available	 3
+Add	
+ART 101	  3 credits
+(ART101F18-F)
+Lorefice	BERNINI
+  Thursdays 2:00pm-4:50pm
+
+VAN GOGH
+  Mondays 2:30pm-4:20pm	
+Capacity	 15
+Enrollment	 16
+Available	 0
+Add	
+ART 105	  3 credits
+(ART105F18-A)
+Swangstu	BERNINI
+  Tuesdays 3:00pm-5:50pm	
+Capacity	 15
+Enrollment	 12
+Available	 3
+Add	
+ART 111	  3 credits
+(ART111F18-A)
+Turner	HAMADA
+  Fridays 10:30am-1:20pm	
+Capacity	 10
+Enrollment	 1
+Available	 9
+Add	
+ART 113	  3 credits
+(ART113F18-A)
+Turner	HAMADA
+  Wednesdays 12:00pm-2:50pm	
+Capacity	 10
+Enrollment	 6
+Available	 4
+Add	
+ART 115	  3 credits
+(ART115F18-A)
+Alessandrini	PLATO
+  Tuesdays 10:30am-11:50am
+  Thursdays 10:30am-11:50am	
+Capacity	 45
+Enrollment	 49
+Available	 0
+Add	
+ART 115	  3 credits
+(ART115F18-B)
+Alessandrini	EUCLID
+  Tuesdays 12:30pm-1:50pm
+  Thursdays 12:30pm-1:50pm	
+Capacity	 45
+Enrollment	 45
+Available	 0
+Add	
+ART 125	  3 credits
+(ART125F18-A)
+Parry	REMBRANDT
+  Fridays 3:00pm-5:50pm
+
+MICHELANGELO
+  Mondays 9:00am-10:50am	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+ART 125	  3 credits
+(ART125F18-B)
+Finnerty	REMBRANDT
+  Fridays 9:00am-11:50am
+
+MICHELANGELO
+  Mondays 9:00am-10:50am	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+ART 125	  3 credits
+(ART125F18-C)
+Finnerty	REMBRANDT
+  Thursdays 3:00pm-5:50pm
+
+MICHELANGELO
+  Mondays 9:00am-10:50am	
+Capacity	 15
+Enrollment	 14
+Available	 1
+Add	
+ART 125	  3 credits
+(ART125F18-D)
+Kang-O'Higgins	REMBRANDT
+  Wednesdays 9:00am-11:50am
+
+MICHELANGELO
+  Mondays 9:00am-10:50am	
+Capacity	 15
+Enrollment	 16
+Available	 0
+Add	
+ART 125	  3 credits
+(ART125F18-E)
+Parry	REMBRANDT
+  Wednesdays 2:00pm-4:50pm
+
+MICHELANGELO
+  Mondays 9:00am-10:50am	
+Capacity	 15
+Enrollment	 16
+Available	 0
+Add	
+ART 125	  3 credits
+(ART125F18-F)
+Lorefice	REMBRANDT
+  Tuesdays 9:00am-11:50am
+
+MICHELANGELO
+  Mondays 9:00am-10:50am	
+Capacity	 15
+Enrollment	 16
+Available	 0
+Add	
+ART 126	  3 credits
+(ART126F18-A)
+Weatherly	REMBRANDT
+  Thursdays 9:00am-11:50am	
+Capacity	 15
+Enrollment	 10
+Available	 5
+Add	
+ART 126	  3 credits
+(ART126F18-B)
+Swangstu	REMBRANDT
+  Wednesdays 5:30pm-8:20pm	
+Capacity	 15
+Enrollment	 4
+Available	 11
+Add	
+ART 126	  3 credits
+(ART126F18-C)
+Weatherly	REMBRANDT
+  Mondays 3:00pm-5:50pm	
+Capacity	 15
+Enrollment	 14
+Available	 1
+Add	
+ART 200	  3 credits
+(ART200F18-A)
+Hooper	BERNINI
+  Tuesdays 9:00am-11:50am	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+ART 200	  3 credits
+(ART200F18-B)
+Hooper	BERNINI
+  Fridays 9:00am-11:50am	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+ART 200	  3 credits
+(ART200F18-C)
+Hooper	BERNINI
+  Mondays 9:00am-11:50am	
+Capacity	 11
+Enrollment	 11
+Available	 0
+Add	
+ART 201	  3 credits
+(ART201F18-A)
+Longo	BERNINI
+  Thursdays 9:00am-11:50am	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+ART 201	  3 credits
+(ART201F18-B)
+Rossano	HAMADA
+  Tuesdays 4:30pm-7:20pm
+  Wednesdays 9:00am-11:50am	
+Capacity	 10
+Enrollment	 9
+Available	 1
+Add	
+ART 201	  3 credits
+(ART201F18-C)
+Longo	BERNINI
+  Mondays 12:00pm-2:50pm	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+ART 201	  3 credits
+(ART201F18-D)
+Rossano	HAMADA
+  Fridays 1:30pm-4:20pm
+  Mondays 9:00am-11:50am	
+Capacity	 10
+Enrollment	 0
+Available	 10
+Add	
+ART 201	  3 credits
+(ART201F18-E)
+Kmiec	BERNINI
+  Wednesdays 10:00am-12:50pm	
+Capacity	 9
+Enrollment	 9
+Available	 0
+Add	
+ART 210	  2 credits
+(ART210F18-A)
+Adams	PASCAL
+  Mondays 9:00am-10:50am	
+Capacity	 30
+Enrollment	 16
+Available	 14
+Add	
+ART 210	  2 credits
+(ART210F18-B)
+Adams	BLANC
+  Mondays 6:00pm-7:50pm	
+Capacity	 30
+Enrollment	 30
+Available	 0
+Add	
+ART 222	  3 credits
+(ART222F18-A)
+Turner	HAMADA
+  Mondays 12:00pm-2:50pm	
+Capacity	 10
+Enrollment	 0
+Available	 10
+Add	
+ART 226	  3 credits
+(ART226F18-A)
+De Fato	BERNINI
+  Wednesdays 4:00pm-6:50pm	
+Capacity	 10
+Enrollment	 12
+Available	 0
+Add	
+ART 228	  3 credits
+(ART228F18-A)
+Rossano	HAMADA
+  Tuesdays 11:30am-2:20pm
+  Thursdays 11:30am-2:20pm	
+Capacity	 5
+Enrollment	 3
+Available	 2
+Add	
+ART 230	  3 credits
+(ART230F18-A)
+Parry	REMBRANDT
+  Thursdays 12:00pm-2:50pm	
+Capacity	 15
+Enrollment	 3
+Available	 12
+Add	
+ART 234	  3 credits
+(ART234F18-A)
+Kotzebue	REYNAUD
+  Thursdays 6:00pm-8:50pm	
+Capacity	 15
+Enrollment	 5
+Available	 10
+Add	
+ART 240	  3 credits
+(ART240F18-A)
+Ganulin	REYNAUD
+  Thursdays 12:00pm-2:50pm	
+Capacity	 15
+Enrollment	 2
+Available	 13
+Add	
+ART 300	  3 credits
+(ART300F18-A)
+TBA	REYNAUD
+  Fridays 6:00pm-8:50pm	
+Capacity	 15
+Enrollment	 7
+Available	 8
+Add	
+ART 301	  3 credits
+(ART301F18-A)
+Ruelos	REYNAUD
+  Fridays 10:00am-12:50pm	
+Capacity	 15
+Enrollment	 8
+Available	 7
+Add	
+ART 310	  3 credits
+(ART310F18-A)
+Meighan	VAN GOGH
+  Thursdays 9:00am-11:50am	
+Capacity	 25
+Enrollment	 14
+Available	 11
+Add	
+ART 350	  3 credits
+(ART350F18-A)
+TBA	LUMIÉRE
+  Thursdays 6:00pm-8:50pm	
+Capacity	 10
+Enrollment	 9
+Available	 1
+Add	
+ART 360	  3 credits
+(ART360F18-A)
+Meighan	CARR
+  Mondays 9:00am-11:50am	
+Capacity	 25
+Enrollment	 8
+Available	 17
+Add	
+ART 399	  3 credits
+(ART399F18)
+Samuels	REMBRANDT
+  Mondays 6:00pm-8:50pm	
+Capacity	 15
+Enrollment	 12
+Available	 3
+Add	
+ART 399	  3 credits
+(ART399F18-2)
+Meighan	Independent	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+ART 399	  3 credits
+(ART399F18-I)
+Rams	Independent	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+ART 400	  2 credits
+(ART400F18-A)
+Ganulin	BERNINI
+  Mondays 3:00pm-4:50pm	
+Capacity	 15
+Enrollment	 3
+Available	 12
+Add	
+ART 401	  3 credits
+(ART401F18-A)
+Thacker	MEILES
+  Fridays 7:00pm-9:50pm	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+ART 401	  3 credits
+(ART401F18-B)
+Longo	LUMIÉRE
+  Tuesdays 9:00am-11:50am	
+Capacity	 15
+Enrollment	 17
+Available	 0
+Add	
+ART 401	  3 credits
+(ART401F18-C)
+TBA	LUMIÉRE
+  Wednesdays 6:00pm-8:50pm	
+Capacity	 10
+Enrollment	 9
+Available	 1
+Add	
+ART 450	  3 credits
+(ART450F18-A)
+Michaelis	PLATO
+  Thursdays 7:00pm-9:50pm	
+Capacity	 65
+Enrollment	 61
+Available	 4
+Add	
+ART 501	  3 credits
+(ART501F18)
+Kmiec	BERNINI
+  Wednesdays 10:00am-12:50pm	
+Capacity	 6
+Enrollment	 6
+Available	 0
+Add	
+ART 503	  3 credits
+(ART503F18)
+De Fato	BERNINI
+  Wednesdays 4:00pm-6:50pm	
+Capacity	 5
+Enrollment	 3
+Available	 2
+Add	
+ART 504	  3 credits
+(ART504F18)
+TBA	LUMIÉRE
+  Thursdays 6:00pm-8:50pm	
+Capacity	 5
+Enrollment	 0
+Available	 5
+Add	
+ART 511	  3 credits
+(ART511F18-A)
+TBA	REMBRANDT
+  Fridays 12:00pm-2:50pm	
+Capacity	 10
+Enrollment	 0
+Available	 10
+Add	
+ART 520	  3 credits
+(ART520F18-A)
+TBA	LUMIÉRE
+  Wednesdays 6:00pm-8:50pm	
+Capacity	 5
+Enrollment	 0
+Available	 5
+Add	
+ART 520	  3 credits
+(ART520F18-B)
+Longo	LUMIÉRE
+  Tuesdays 9:00am-11:50am	
+Capacity	 5
+Enrollment	 1
+Available	 4
+Add	
+ART 528	  3 credits
+(ART528F18)
+Rossano	HAMADA
+  Tuesdays 11:30am-2:20pm
+  Thursdays 11:30am-2:20pm	
+Capacity	 5
+Enrollment	 0
+Available	 5
+Add	
+ART 560	  3 credits
+(ART560F18)
+Hooper	BERNINI
+  Mondays 9:00am-11:50am	
+Capacity	 5
+Enrollment	 2
+Available	 3
+Add	
+ART 701	  3 credits
+(ART701F18-A)
+Finnerty	REYNAUD
+  Fridays 1:00pm-3:50pm	
+Capacity	 10
+Enrollment	 10
+Available	 0
+Add	
+ART 703	  6 credits
+(ART703F18-A)
+Henne	VILLA-LOBOS
+  Mondays 1:00pm-3:50pm	
+Capacity	 10
+Enrollment	 5
+Available	 5
+Add	
+CG 125	  3 credits
+(CG125F18-A)
+Bradbury	TURING
+  Mondays 9:00am-11:50am	
+Capacity	 17
+Enrollment	 10
+Available	 7
+Add	
+CG 125	  3 credits
+(CG125F18-B)
+Bradbury	TURING
+  Fridays 1:30pm-4:20pm	
+Capacity	 17
+Enrollment	 15
+Available	 2
+Add	
+CG 125	  3 credits
+(CG125F18-C)
+Bradbury	REYNAUD
+  Wednesdays 9:00am-11:50am	
+Capacity	 17
+Enrollment	 9
+Available	 8
+Add	
+CG 130	  3 credits
+(CG130F18-A)
+Siegel	TURING
+  Wednesdays 1:00pm-3:50pm	
+Capacity	 12
+Enrollment	 12
+Available	 0
+Add	
+CG 130	  3 credits
+(CG130F18-B)
+Siegel	CURIE
+  Thursdays 9:00am-11:50am	
+Capacity	 12
+Enrollment	 12
+Available	 0
+Add	
+CG 130	  3 credits
+(CG130F18-C)
+Siegel	TURING
+  Thursdays 1:00pm-3:50pm	
+Capacity	 12
+Enrollment	 12
+Available	 0
+Add	
+CG 130	  3 credits
+(CG130F18-D)
+Siegel	TURING
+  Wednesdays 9:00am-11:50am	
+Capacity	 12
+Enrollment	 8
+Available	 4
+Add	
+CG 201	  3 credits
+(CG201F18-A)
+TBA	CURIE
+  Thursdays 12:30pm-3:20pm	
+Capacity	 15
+Enrollment	 16
+Available	 0
+Add	
+CG 201	  3 credits
+(CG201F18-B)
+TBA	LUMIÉRE
+  Wednesdays 3:00pm-5:50pm	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+CG 201	  3 credits
+(CG201F18-C)
+Andrist	CURIE
+  Thursdays 5:00pm-7:50pm	
+Capacity	 15
+Enrollment	 12
+Available	 3
+Add	
+CG 201	  3 credits
+(CG201F18-D)
+Andrist	REYNAUD
+  Wednesdays 5:00pm-7:50pm	
+Capacity	 15
+Enrollment	 11
+Available	 4
+Add	
+CG 225	  3 credits
+(CG225F18-A)
+Samson	REYNAUD
+  Wednesdays 12:00pm-2:50pm	
+Capacity	 17
+Enrollment	 17
+Available	 0
+Add	
+CG 225	  3 credits
+(CG225F18-B)
+Samson	CURIE
+  Mondays 1:00pm-3:50pm	
+Capacity	 17
+Enrollment	 17
+Available	 0
+Add	
+CG 225	  3 credits
+(CG225F18-C)
+Samson	LUMIÉRE
+  Tuesdays 5:30pm-8:20pm	
+Capacity	 17
+Enrollment	 17
+Available	 0
+Add	
+CG 275	  3 credits
+(CG275F18-A)
+Bishop	LUMIÉRE
+  Fridays 6:00pm-8:50pm	
+Capacity	 15
+Enrollment	 8
+Available	 7
+Add	
+CG 300	  3 credits
+(CG300F18-A)
+Poplin	LUMIÉRE
+  Thursdays 10:00am-12:50pm	
+Capacity	 17
+Enrollment	 16
+Available	 1
+Add	
+CG 300	  3 credits
+(CG300F18-B)
+Poplin	LUMIÉRE
+  Wednesdays 12:00pm-2:50pm	
+Capacity	 17
+Enrollment	 12
+Available	 5
+Add	
+CG 300	  3 credits
+(CG300F18-C)
+Poplin	LUMIÉRE
+  Tuesdays 12:00pm-2:50pm	
+Capacity	 17
+Enrollment	 9
+Available	 8
+Add	
+CG 305	  3 credits
+(CG305F18-A)
+Briley	MEILES
+  Wednesdays 10:00am-12:50pm	
+Capacity	 10
+Enrollment	 9
+Available	 1
+Add	
+CG 305	  3 credits
+(CG305F18-B)
+Briley	MEILES
+  Mondays 10:00am-12:50pm	
+Capacity	 15
+Enrollment	 7
+Available	 8
+Add	
+CG 310	  3 credits
+(CG310F18-A)
+Samson	CURIE
+  Tuesdays 1:30pm-4:20pm
+
+EDISON
+  Fridays 9:00am-12:50pm	
+Capacity	 30
+Enrollment	 9
+Available	 21
+Add	
+CG 315	  3 credits
+(CG315F18-A)
+Evenson	CURIE
+  Wednesdays 6:00pm-8:50pm	
+Capacity	 12
+Enrollment	 11
+Available	 1
+Add	
+CG 360	  3 credits
+(CG360F18-A)
+Dudley	CURIE
+  Fridays 6:30pm-9:20pm	
+Capacity	 12
+Enrollment	 11
+Available	 1
+Add	
+CG 375	  3 credits
+(CG375F18-A)
+Bishop	TURING
+  Wednesdays 6:00pm-8:50pm	
+Capacity	 15
+Enrollment	 8
+Available	 7
+Add	
+CG 376	  3 credits
+(CG376F18-A)
+Bishop	TURING
+  Tuesdays 6:00pm-8:50pm	
+Capacity	 15
+Enrollment	 5
+Available	 10
+Add	
+CG 398	  3 credits
+(CG398F18-A)
+Kury	MEILES
+  Wednesdays 6:00pm-8:50pm	
+Capacity	 10
+Enrollment	 8
+Available	 2
+Add	
+CG 398	  3 credits
+(CG398F18-I)
+Dudley	Independent	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+CG 399	  3 credits
+(CG399F18-A)
+Brunner	REYNAUD
+  Tuesdays 6:00pm-8:50pm	
+Capacity	 11
+Enrollment	 12
+Available	 0
+Add	
+CG 403	  3 credits
+(CG403F18-A)
+Poplin	LUMIÉRE
+  Fridays 1:30pm-4:20pm	
+Capacity	 10
+Enrollment	 11
+Available	 0
+Add	
+CG 405	  3 credits
+(CG405F18-A)
+Briley	MEILES
+  Fridays 12:00pm-2:50pm	
+Capacity	 10
+Enrollment	 2
+Available	 8
+Add	
+CG 405	  3 credits
+(CG405F18-B)
+Briley	MEILES
+  Thursdays 1:00pm-3:50pm	
+Capacity	 10
+Enrollment	 11
+Available	 0
+Add	
+CG 501	  3 credits
+(CG501F18-A)
+Nelson	CURIE
+  Fridays 9:00am-11:50am	
+Capacity	 15
+Enrollment	 12
+Available	 3
+Add	
+CG 525	  3 credits
+(CG525F18-A)
+Ruelos	MEILES
+  Thursdays 10:00am-12:50pm	
+Capacity	 15
+Enrollment	 11
+Available	 4
+Add	
+CG 599	  3 credits
+(CG599F18)
+Brunner	REYNAUD
+  Tuesdays 6:00pm-8:50pm	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+CG 605	  3 credits
+(CG605F18)
+Briley	MEILES
+  Wednesdays 10:00am-12:50pm	
+Capacity	 5
+Enrollment	 3
+Available	 2
+Add	
+CG 615	  3 credits
+(CG615F18)
+Evenson	CURIE
+  Wednesdays 6:00pm-8:50pm	
+Capacity	 5
+Enrollment	 2
+Available	 3
+Add	
+CG 620	  3 credits
+(CG620F18)
+Dudley	CURIE
+  Fridays 6:30pm-9:20pm	
+Capacity	 5
+Enrollment	 4
+Available	 1
+Add	
+CG 661	  3 credits
+(CG661F18-A)
+Briley	MEILES
+  Fridays 12:00pm-2:50pm	
+Capacity	 5
+Enrollment	 0
+Available	 5
+Add	
+CG 661	  3 credits
+(CG661F18-B)
+Briley	MEILES
+  Thursdays 1:00pm-3:50pm	
+Capacity	 5
+Enrollment	 0
+Available	 5
+Add	
+CG 675	  3 credits
+(CG675F18)
+Bishop	TURING
+  Wednesdays 6:00pm-8:50pm	
+Capacity	 5
+Enrollment	 0
+Available	 5
+Add	
+CG 676	  3 credits
+(CG676F18)
+Bishop	TURING
+  Tuesdays 6:00pm-8:50pm	
+Capacity	 5
+Enrollment	 0
+Available	 5
+Add	
+COL 101	  1 credits
+(COL101F18-A)
+Caswell	VAN GOGH
+  Tuesdays 10:30am-11:20am	
+Capacity	 25
+Enrollment	 26
+Available	 0
+Add	
+COL 101	  1 credits
+(COL101F18-B)
+Bowen	EUCLID
+  Mondays 10:00am-10:50am	
+Capacity	 25
+Enrollment	 26
+Available	 0
+Add	
+COL 101	  1 credits
+(COL101F18-C)
+Flatau	JIMBO
+  Tuesdays 10:30am-11:20am	
+Capacity	 25
+Enrollment	 25
+Available	 0
+Add	
+COL 101	  1 credits
+(COL101F18-D)
+Boyes	JIMBO
+  Thursdays 10:30am-11:20am	
+Capacity	 25
+Enrollment	 25
+Available	 0
+Add	
+COL 101	  1 credits
+(COL101F18-E)
+Gadian	MICHELANGELO
+  Thursdays 9:00am-9:50am	
+Capacity	 25
+Enrollment	 25
+Available	 0
+Add	
+COL 101	  1 credits
+(COL101F18-F)
+Self	JIMBO
+  Fridays 9:00am-9:50am	
+Capacity	 25
+Enrollment	 16
+Available	 9
+Add	
+COL 101	  1 credits
+(COL101F18-G)
+Bowen	EUCLID
+  Mondays 9:00am-9:50am	
+Capacity	 25
+Enrollment	 12
+Available	 13
+Add	
+COL 101	  1 credits
+(COL101F18-H)
+Brunner	EUCLID
+  Wednesdays 11:00am-11:50am	
+Capacity	 25
+Enrollment	 25
+Available	 0
+Add	
+COL 101	  1 credits
+(COL101F18-I)
+Boyes	VON NEWMANN
+  Fridays 12:00pm-12:50pm	
+Capacity	 25
+Enrollment	 25
+Available	 0
+Add	
+COL 101	  1 credits
+(COL101F18-J)
+Wang	MICHELANGELO
+  Wednesdays 11:00am-11:50am	
+Capacity	 25
+Enrollment	 15
+Available	 10
+Add	
+COL 101	  1 credits
+(COL101F18-K)
+Self	JIMBO
+  Fridays 11:00am-11:50am	
+Capacity	 25
+Enrollment	 25
+Available	 0
+Add	
+COL 101	  1 credits
+(COL101F18-L)
+Grenfell	VON NEWMANN
+  Fridays 9:00am-9:50am	
+Capacity	 25
+Enrollment	 12
+Available	 13
+Add	
+COL 499	  1 credits
+(COL499F18-A)
+Ahmadi	JIMBO
+  Tuesdays 4:30pm-5:50pm
+  Thursdays 4:30pm-5:50pm	
+Capacity	 24
+Enrollment	 19
+Available	 5
+Add	
+COM 150	  3 credits
+(COM150F18-A)
+Choi	DESCARTES
+  Mondays 9:00am-10:20am
+  Wednesdays 9:00am-10:20am	
+Capacity	 24
+Enrollment	 24
+Available	 0
+Add	
+COM 250	  3 credits
+(COM250F18-A)
+Michaels	JIMBO
+  Tuesdays 11:30am-12:50pm
+  Thursdays 11:30am-12:50pm	
+Capacity	 24
+Enrollment	 24
+Available	 0
+Add	
+CS 100	  4 credits
+(CS100F18-A)
+Villarreal	PLATO
+  Mondays 9:00am-10:20am
+  Fridays 10:30am-11:50am
+
+AL-KHWARISMI
+  Tuesdays 3:30pm-5:50pm	
+Capacity	 55
+Enrollment	 18
+Available	 37
+Add	
+CS 100	  4 credits
+(CS100F18-B)
+Villarreal	PLATO
+  Mondays 11:30am-12:50pm
+  Fridays 3:00pm-4:20pm
+
+AL-KHWARISMI
+  Tuesdays 12:30pm-2:50pm	
+Capacity	 70
+Enrollment	 30
+Available	 40
+Add	
+CS 100	  4 credits
+(CS100F18-C)
+Villarreal	PLATO
+  Mondays 9:00am-10:20am
+  Fridays 10:30am-11:50am
+
+AL-KHWARISMI
+  Wednesdays 1:30pm-3:50pm	
+Capacity	 55
+Enrollment	 49
+Available	 6
+Add	
+CS 100	  4 credits
+(CS100F18-D)
+Villarreal	PLATO
+  Mondays 11:30am-12:50pm
+  Fridays 3:00pm-4:20pm
+
+AL-KHWARISMI
+  Wednesdays 10:30am-12:50pm	
+Capacity	 55
+Enrollment	 49
+Available	 6
+Add	
+CS 116	  4 credits
+(CS116F18-A)
+TBA	DA VINCI
+  Tuesdays 10:00am-11:50am
+  Thursdays 10:00am-11:50am	
+Capacity	 35
+Enrollment	 35
+Available	 0
+Add	
+CS 116	  4 credits
+(CS116F18-B)
+TBA	DA VINCI
+  Mondays 9:00am-10:50am
+  Wednesdays 9:00am-10:50am	
+Capacity	 35
+Enrollment	 35
+Available	 0
+Add	
+CS 116	  4 credits
+(CS116F18-C)
+TBA	DA VINCI
+  Wednesdays 3:30pm-5:20pm
+  Fridays 3:30pm-5:20pm	
+Capacity	 35
+Enrollment	 31
+Available	 4
+Add	
+CS 120	  4 credits
+(CS120F18-A)
+Mead	VAN GOGH
+  Tuesdays 11:30am-12:50pm
+  Thursdays 3:00pm-5:20pm	
+Capacity	 90
+Enrollment	 63
+Available	 27
+Add	
+CS 120	  4 credits
+(CS120F18-B)
+Mead	VAN GOGH
+  Tuesdays 9:00am-10:20am
+  Fridays 12:30pm-2:50pm	
+Capacity	 90
+Enrollment	 87
+Available	 3
+Add	
+CS 176	  3 credits
+(CS176F18-A)
+Nunes	AL-KHWARISMI
+  Tuesdays 6:00pm-7:20pm
+  Thursdays 6:00pm-7:20pm	
+Capacity	 60
+Enrollment	 31
+Available	 29
+Add	
+CS 180	  3 credits
+(CS180F18-A)
+Mead	VAN GOGH
+  Wednesdays 10:30am-11:50am
+  Fridays 10:30am-11:50am	
+Capacity	 80
+Enrollment	 62
+Available	 18
+Add	
+CS 200	  3 credits
+(CS200F18-A)
+Ghali	MICHELANGELO
+  Tuesdays 10:00am-11:20am
+  Thursdays 10:00am-11:20am	
+Capacity	 75
+Enrollment	 60
+Available	 15
+Add	
+CS 211	  3 credits
+(CS211F18-A)
+Iwer	VAN GOGH
+  Tuesdays 7:00pm-8:20pm
+  Thursdays 7:00pm-8:20pm	
+Capacity	 80
+Enrollment	 59
+Available	 21
+Add	
+CS 225	  3 credits
+(CS225F18-A)
+Hanson	PLATO
+  Wednesdays 9:00am-10:20am
+  Fridays 9:00am-10:20am	
+Capacity	 110
+Enrollment	 93
+Available	 17
+Add	
+CS 246	  3 credits
+(CS246F18-A)
+Hanson	HOPPER
+  Mondays 4:30pm-5:50pm
+  Wednesdays 4:30pm-5:50pm	
+Capacity	 12
+Enrollment	 12
+Available	 0
+Add	
+CS 250	  3 credits
+(CS250F18-A)
+Ghali	MICHELANGELO
+  Wednesdays 9:00am-10:20am
+  Fridays 9:00am-10:20am	
+Capacity	 25
+Enrollment	 0
+Available	 25
+Add	
+CS 251	  3 credits
+(CS251F18-A)
+Herron	EUCLID
+  Thursdays 11:00am-12:20pm
+  Tuesdays 11:00am-12:20pm	
+Capacity	 49
+Enrollment	 49
+Available	 0
+Add	
+CS 260	  3 credits
+(CS260F18-A)
+Beeman	PLATO
+  Wednesdays 6:00pm-7:20pm
+  Fridays 6:00pm-7:20pm	
+Capacity	 65
+Enrollment	 65
+Available	 0
+Add	
+CS 280	  3 credits
+(CS280F18-A)
+Iwer	EUCLID
+  Wednesdays 9:00am-10:20am
+  Fridays 9:00am-10:20am	
+Capacity	 45
+Enrollment	 23
+Available	 22
+Add	
+CS 300	  3 credits
+(CS300F18-A)
+Karnick	VAN GOGH
+  Mondays 9:00am-10:20am
+  Wednesdays 9:00am-10:20am	
+Capacity	 70
+Enrollment	 64
+Available	 6
+Add	
+CS 315	  3 credits
+(CS315F18-A)
+TBA	DESCARTES
+  Wednesdays 3:00pm-4:20pm
+  Fridays 3:00pm-4:20pm	
+Capacity	 40
+Enrollment	 35
+Available	 5
+Add	
+CS 325	  3 credits
+(CS325F18-A)
+Iwer	PASCAL
+  Tuesdays 5:30pm-6:50pm
+  Thursdays 5:30pm-6:50pm	
+Capacity	 25
+Enrollment	 14
+Available	 11
+Add	
+CS 330	  3 credits
+(CS330F18-A)
+Volper	PLATO
+  Mondays 4:30pm-5:50pm
+  Wednesdays 4:30pm-5:50pm	
+Capacity	 80
+Enrollment	 80
+Available	 0
+Add	
+CS 350	  3 credits
+(CS350F18-A)
+Davis	PASCAL
+  Mondays 3:00pm-4:20pm
+  Wednesdays 3:00pm-4:20pm	
+Capacity	 25
+Enrollment	 13
+Available	 12
+Add	
+CS 370	  3 credits
+(CS370F18-A)
+Karnick	BLANC
+  Tuesdays 4:30pm-5:50pm
+  Thursdays 4:30pm-5:50pm	
+Capacity	 20
+Enrollment	 12
+Available	 8
+Add	
+CS 375	  3 credits
+(CS375F18-A)
+Sundberg	CARR
+  Tuesdays 10:30am-11:50am
+  Thursdays 10:30am-11:50am	
+Capacity	 30
+Enrollment	 30
+Available	 0
+Add	
+CS 380	  3 credits
+(CS380F18-A)
+Rabin	MICHELANGELO
+  Tuesdays 7:30pm-8:50pm
+  Thursdays 7:30pm-8:50pm	
+Capacity	 22
+Enrollment	 23
+Available	 0
+Add	
+CS 380	  3 credits
+(CS380F18-B)
+Rabin	MICHELANGELO
+  Tuesdays 6:00pm-7:20pm
+  Thursdays 6:00pm-7:20pm	
+Capacity	 25
+Enrollment	 28
+Available	 0
+Add	
+CS 381	  3 credits
+(CS381F18-A)
+Volper	EUCLID
+  Thursdays 9:00am-10:20am
+  Tuesdays 9:00am-10:20am	
+Capacity	 20
+Enrollment	 14
+Available	 6
+Add	
+CS 388	  3 credits
+(CS388F18-A)
+Dorgan	BONTAGO
+  Mondays 6:00pm-7:20pm
+  Fridays 6:00pm-7:20pm	
+Capacity	 15
+Enrollment	 15
+Available	 0
+Add	
+CS 399	  3 credits
+(CS399F18)
+TBA	VON NEWMANN
+  Tuesdays 10:30am-11:50am
+  Thursdays 10:30am-11:50am	
+Capacity	 20
+Enrollment	 0
+Available	 20
+Add	
+CS 460	  3 credits
+(CS460F18-A)
+Herron	EUCLID
+  Wednesdays 2:00pm-3:20pm
+  Fridays 2:00pm-3:20pm	
+Capacity	 10
+Enrollment	 4
+Available	 6
+Add	
+CS 525	  3 credits
+(CS525F18-A)
+Volper	GIBRAN
+  Wednesdays 9:00am-11:50am	
+Capacity	 38
+Enrollment	 37
+Available	 1
+Add	
+CS 529	  3 credits
+(CS529F18-A)
+Abi Chacra	GIBRAN
+  Fridays 10:00am-12:50pm	
+Capacity	 38
+Enrollment	 38
+Available	 0
+Add	
+CS 541	  3 credits
+(CS541F18-A)
+Hanson	DESCARTES
+  Tuesdays 11:30am-12:50pm
+  Thursdays 11:30am-12:50pm	
+Capacity	 30
+Enrollment	 11
+Available	 19
+Add	
+CS 560	  3 credits
+(CS560F18)
+Herron	EUCLID
+  Wednesdays 2:00pm-3:20pm
+  Fridays 2:00pm-3:20pm	
+Capacity	 20
+Enrollment	 12
+Available	 8
+Add	
+CS 562	  3 credits
+(CS562F18-A)
+Herron	JIMBO
+  Thursdays 6:00pm-8:50pm	
+Capacity	 25
+Enrollment	 25
+Available	 0
+Add	
+CS 570	  3 credits
+(CS570F18)
+Karnick	BLANC
+  Tuesdays 4:30pm-5:50pm
+  Thursdays 4:30pm-5:50pm	
+Capacity	 10
+Enrollment	 6
+Available	 4
+Add	
+CS 580	  3 credits
+(CS580F18-A)
+Rabin	MICHELANGELO
+  Tuesdays 7:30pm-8:50pm
+  Thursdays 7:30pm-8:50pm	
+Capacity	 8
+Enrollment	 3
+Available	 5
+Add	
+CS 580	  3 credits
+(CS580F18-B)
+Rabin	MICHELANGELO
+  Tuesdays 6:00pm-7:20pm
+  Thursdays 6:00pm-7:20pm	
+Capacity	 5
+Enrollment	 5
+Available	 0
+Add	
+CS 581	  3 credits
+(CS581F18)
+Volper	EUCLID
+  Thursdays 9:00am-10:20am
+  Tuesdays 9:00am-10:20am	
+Capacity	 20
+Enrollment	 17
+Available	 3
+Add	
+CS 597	  3 credits
+(CS597F18)
+Volper	PLATO
+  Mondays 4:30pm-5:50pm
+  Wednesdays 4:30pm-5:50pm	
+Capacity	 70
+Enrollment	 1
+Available	 69
+Add	
+CS 598	  1 credits
+(CS598F18)
+Karnick	HOPPER
+  Fridays 12:00pm-12:50pm	
+Capacity	 16
+Enrollment	 7
+Available	 9
+Add	
+DES 100	  4 credits
+(DES100F18-A)
+Ellinger	DA VINCI
+  Wednesdays 1:00pm-2:50pm
+  Fridays 1:00pm-2:50pm
+
+MICHELANGELO
+  Mondays 2:30pm-3:50pm	
+Capacity	 36
+Enrollment	 36
+Available	 0
+Add	
+DES 100	  4 credits
+(DES100F18-B)
+Ellinger	DA VINCI
+  Tuesdays 3:30pm-5:20pm
+  Thursdays 3:30pm-5:20pm
+
+MICHELANGELO
+  Mondays 2:30pm-3:50pm	
+Capacity	 36
+Enrollment	 24
+Available	 12
+Add	
+DES 101	  4 credits
+(DES101F18-A)
+Holcomb	PASCAL
+  Wednesdays 9:00am-11:50am
+
+VAN GOGH
+  Mondays 11:00am-12:20pm	
+Capacity	 28
+Enrollment	 28
+Available	 0
+Add	
+DES 101	  4 credits
+(DES101F18-B)
+Holcomb	PASCAL
+  Thursdays 11:00am-1:50pm
+
+VAN GOGH
+  Mondays 11:00am-12:20pm	
+Capacity	 28
+Enrollment	 25
+Available	 3
+Add	
+DES 101	  4 credits
+(DES101F18-C)
+Holcomb	BLANC
+  Fridays 9:00am-11:50am
+
+VAN GOGH
+  Mondays 11:00am-12:20pm	
+Capacity	 28
+Enrollment	 11
+Available	 17
+Add	
+ECE 220L	  3 credits
+(ECE220LF18-A)
+TBA	ARCHIMEDES
+  Tuesdays 12:00pm-1:50pm
+  Thursdays 12:00pm-1:50pm	
+Capacity	 12
+Enrollment	 2
+Available	 10
+Add	
+ECE 270	  3 credits
+(ECE270F18-A)
+Theriault	ARCHIMEDES
+  Mondays 10:00am-11:50am
+  Wednesdays 10:00am-11:50am	
+Capacity	 12
+Enrollment	 4
+Available	 8
+Add	
+ECE 300	  3 credits
+(ECE300F18-A)
+TBA	ARCHIMEDES
+  Mondays 12:00pm-1:50pm
+  Wednesdays 12:00pm-1:50pm	
+Capacity	 12
+Enrollment	 6
+Available	 6
+Add	
+ECE 310L	  5 credits
+(ECE310LF18-A)
+Thomas	ARCHIMEDES
+  Fridays 12:00pm-2:50pm
+
+Project Meetings	
+Capacity	 12
+Enrollment	 2
+Available	 10
+Add	
+ECE 350	  3 credits
+(ECE350F18-A)
+Villarreal	ARCHIMEDES
+  Tuesdays 10:00am-11:50am
+  Thursdays 10:00am-11:50am	
+Capacity	 12
+Enrollment	 2
+Available	 10
+Add	
+ECE 399	  3 credits
+(ECE399F18-I)
+Thomas	Independent	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+ECE 410L	  5 credits
+(ECE410LF18)
+Thomas	ARCHIMEDES
+  Fridays 12:00pm-2:50pm
+
+Project Meetings	
+Capacity	 12
+Enrollment	 1
+Available	 11
+Add	
+ECE 490	  5 credits
+(ECE490F18)
+Thomas	Independent	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+ENG 110	  3 credits
+(ENG110F18-A)
+Joly	EUCLID
+  Mondays 4:30pm-5:50pm
+  Wednesdays 4:30pm-5:50pm	
+Capacity	 24
+Enrollment	 24
+Available	 0
+Add	
+ENG 110	  3 credits
+(ENG110F18-B)
+TBA	JIMBO
+  Tuesdays 3:00pm-4:20pm
+  Thursdays 3:00pm-4:20pm	
+Capacity	 24
+Enrollment	 22
+Available	 2
+Add	
+ENG 110	  3 credits
+(ENG110F18-C)
+TBA	CARR
+  Wednesdays 9:00am-10:20am
+  Fridays 9:00am-10:20am	
+Capacity	 24
+Enrollment	 23
+Available	 1
+Add	
+ENG 110	  3 credits
+(ENG110F18-D)
+Muth	VON NEWMANN
+  Mondays 10:30am-11:50am
+  Wednesdays 10:30am-11:50am	
+Capacity	 24
+Enrollment	 16
+Available	 8
+Add	
+ENG 110	  3 credits
+(ENG110F18-E)
+TBA	JIMBO
+  Mondays 4:00pm-5:20pm
+  Wednesdays 4:00pm-5:20pm	
+Capacity	 24
+Enrollment	 21
+Available	 3
+Add	
+ENG 110	  3 credits
+(ENG110F18-F)
+TBA	VON NEWMANN
+  Tuesdays 9:00am-10:20am
+  Thursdays 9:00am-10:20am	
+Capacity	 24
+Enrollment	 13
+Available	 11
+Add	
+ENG 116	  3 credits
+(ENG116F18-A)
+Joly	BLANC
+  Mondays 11:00am-12:20pm
+  Wednesdays 11:00am-12:20pm	
+Capacity	 24
+Enrollment	 19
+Available	 5
+Add	
+ENG 116	  3 credits
+(ENG116F18-B)
+Michaels	PASCAL
+  Mondays 12:00pm-1:20pm
+  Wednesdays 12:00pm-1:20pm	
+Capacity	 24
+Enrollment	 26
+Available	 0
+Add	
+ENG 116	  3 credits
+(ENG116F18-C)
+Joly	BLANC
+  Tuesdays 12:00pm-1:20pm
+  Thursdays 12:00pm-1:20pm	
+Capacity	 24
+Enrollment	 24
+Available	 0
+Add	
+ENG 116	  3 credits
+(ENG116F18-D)
+Michaels	BLANC
+  Wednesdays 4:00pm-5:20pm
+  Fridays 4:00pm-5:20pm	
+Capacity	 24
+Enrollment	 26
+Available	 0
+Add	
+ENG 116	  3 credits
+(ENG116F18-E)
+TBA	VON NEWMANN
+  Mondays 12:00pm-1:20pm
+  Wednesdays 12:00pm-1:20pm	
+Capacity	 24
+Enrollment	 25
+Available	 0
+Add	
+ENG 230	  3 credits
+(ENG230F18-A)
+Nizamani	VON NEWMANN
+  Tuesdays 3:00pm-4:20pm
+  Thursdays 3:00pm-4:20pm	
+Capacity	 24
+Enrollment	 24
+Available	 0
+Add	
+ENG 230	  3 credits
+(ENG230F18-B)
+Nizamani	JIMBO
+  Wednesdays 2:00pm-3:20pm
+  Fridays 2:00pm-3:20pm	
+Capacity	 24
+Enrollment	 25
+Available	 0
+Add	
+ENG 243	  3 credits
+(ENG243F18-A)
+Nizamani	BLANC
+  Mondays 9:00am-10:20am
+  Wednesdays 9:00am-10:20am	
+Capacity	 24
+Enrollment	 2
+Available	 22
+Add	
+ENG 245	  3 credits
+(ENG245F18-A)
+Muth	BLANC
+  Tuesdays 3:00pm-4:20pm
+  Thursdays 3:00pm-4:20pm	
+Capacity	 24
+Enrollment	 25
+Available	 0
+Add	
+ENG 315	  4 credits
+(ENG315F18-A)
+Muth	DESCARTES
+  Mondays 4:30pm-6:20pm
+  Wednesdays 4:30pm-6:20pm	
+Capacity	 24
+Enrollment	 6
+Available	 18
+Add	
+FLM 115	  3 credits
+(FLM115F18-A)
+Sullivan	VAN GOGH
+  Tuesdays 1:00pm-3:50pm	
+Capacity	 80
+Enrollment	 78
+Available	 2
+Add	
+FLM 151	  3 credits
+(FLM151F18-A)
+Vancil	MICHELANGELO
+  Fridays 6:00pm-8:50pm	
+Capacity	 15
+Enrollment	 12
+Available	 3
+Add	
+FLM 201	  3 credits
+(FLM201F18-A)
+Mosio	REMBRANDT
+  Thursdays 6:30pm-9:20pm	
+Capacity	 18
+Enrollment	 11
+Available	 7
+Add	
+FLM 210	  3 credits
+(FLM210F18-A)
+Mosio	REMBRANDT
+  Tuesdays 12:00pm-2:50pm	
+Capacity	 16
+Enrollment	 13
+Available	 3
+Add	
+FLM 210	  3 credits
+(FLM210F18-B)
+Mosio	REMBRANDT
+  Tuesdays 5:00pm-7:50pm	
+Capacity	 16
+Enrollment	 11
+Available	 5
+Add	
+GAM 100	  3 credits
+(GAM100F18-A)
+Chambers	AL-KHWARISMI
+  Fridays 12:30pm-2:50pm
+
+PLATO
+  Mondays 3:00pm-3:50pm	
+Capacity	 46
+Enrollment	 31
+Available	 15
+Add	
+GAM 100	  3 credits
+(GAM100F18-B)
+Chambers	AL-KHWARISMI
+  Fridays 9:00am-11:20am
+
+PLATO
+  Mondays 3:00pm-3:50pm	
+Capacity	 46
+Enrollment	 36
+Available	 10
+Add	
+GAM 100	  3 credits
+(GAM100F18-C)
+Chambers	AL-KHWARISMI
+  Thursdays 12:00pm-2:20pm
+
+PLATO
+  Mondays 3:00pm-3:50pm	
+Capacity	 46
+Enrollment	 32
+Available	 14
+Add	
+GAM 100	  3 credits
+(GAM100F18-D)
+Chambers	AL-KHWARISMI
+  Thursdays 9:00am-11:20am
+
+PLATO
+  Mondays 3:00pm-3:50pm	
+Capacity	 46
+Enrollment	 41
+Available	 5
+Add	
+GAM 200	  4 credits
+(GAM200F18-A)
+Beeman	PLATO
+  Tuesdays 9:00am-9:50am
+  Thursdays 9:00am-9:50am
+
+EDISON
+  Fridays 1:00pm-4:50pm	
+Capacity	 200
+Enrollment	 110
+Available	 90
+Add	
+GAM 205	  4 credits
+(GAM205F18)
+Beeman	PLATO
+  Tuesdays 9:00am-9:50am
+  Thursdays 9:00am-9:50am
+
+EDISON
+  Fridays 1:00pm-4:50pm	
+Capacity	 50
+Enrollment	 39
+Available	 11
+Add	
+GAM 300	  5 credits
+(GAM300F18-A)
+Orth	PLATO
+  Tuesdays 1:30pm-4:20pm
+
+EDISON
+  Fridays 9:00am-12:50pm	
+Capacity	 100
+Enrollment	 75
+Available	 25
+Add	
+GAM 302	  5 credits
+(GAM302F18)
+Orth	PLATO
+  Tuesdays 1:30pm-4:20pm
+
+EDISON
+  Fridays 9:00am-12:50pm	
+Capacity	 100
+Enrollment	 77
+Available	 23
+Add	
+GAM 375	  5 credits
+(GAM375F18-A)
+Rowan	PLATO
+  Wednesdays 10:30am-1:20pm
+
+EDISON
+  Fridays 9:00am-12:50pm	
+Capacity	 150
+Enrollment	 30
+Available	 120
+Add	
+GAM 400	  5 credits
+(GAM400F18-A)
+Sward	MICHELANGELO
+  Wednesdays 12:00pm-1:20pm
+
+EDISON
+  Fridays 9:00am-12:50pm	
+Capacity	 100
+Enrollment	 69
+Available	 31
+Add	
+GAM 450	  5 credits
+(GAM450F18)
+Sward	EDISON
+  Fridays 9:00am-12:50pm
+
+MICHELANGELO
+  Wednesdays 12:00pm-1:20pm	
+Capacity	 100
+Enrollment	 1
+Available	 99
+Add	
+GAM 490	  5 credits
+(GAM490F18)
+Sward	Independent	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+GAM 550	  3 credits
+(GAM550F18-A)
+Fleegal	JIMBO
+  Wednesdays 7:00pm-9:50pm	
+Capacity	 25
+Enrollment	 17
+Available	 8
+Add	
+GAT 211	  3 credits
+(GAT211F18-A)
+Radakovich	PLATO
+  Mondays 6:00pm-8:20pm
+
+PASCAL
+  Thursdays 3:00pm-4:45pm	
+Capacity	 18
+Enrollment	 19
+Available	 0
+Add	
+GAT 211	  3 credits
+(GAT211F18-B)
+Radakovich	CARR
+  Thursdays 6:30pm-8:15pm
+
+PLATO
+  Mondays 6:00pm-8:20pm	
+Capacity	 18
+Enrollment	 18
+Available	 0
+Add	
+GAT 211	  3 credits
+(GAT211F18-C)
+Radakovich	CARR
+  Wednesdays 6:30pm-8:15pm
+
+PLATO
+  Mondays 6:00pm-8:20pm	
+Capacity	 18
+Enrollment	 15
+Available	 3
+Add	
+GAT 211	  3 credits
+(GAT211F18-D)
+Radakovich	PLATO
+  Mondays 6:00pm-8:20pm
+
+CARR
+  Wednesdays 3:30pm-5:15pm	
+Capacity	 18
+Enrollment	 18
+Available	 0
+Add	
+GAT 240	  3 credits
+(GAT240F18-A)
+Nutter	DA VINCI
+  Mondays 11:00am-12:50pm
+  Wednesdays 11:00am-12:50pm	
+Capacity	 0
+Enrollment	 1
+Available	 0
+Add	
+GAT 240	  3 credits
+(GAT240F18-B)
+Nutter	MEILES
+  Mondays 1:30pm-3:20pm
+  Wednesdays 1:30pm-3:20pm	
+Capacity	 30
+Enrollment	 26
+Available	 4
+Add	
+GAT 251	  3 credits
+(GAT251F18-A)
+Morrison	CURIE
+  Wednesdays 4:00pm-5:50pm
+  Fridays 4:00pm-5:50pm	
+Capacity	 22
+Enrollment	 22
+Available	 0
+Add	
+GAT 251	  3 credits
+(GAT251F18-B)
+Morrison	LUMIÉRE
+  Mondays 10:00am-11:50am
+  Wednesdays 10:00am-11:50am	
+Capacity	 20
+Enrollment	 20
+Available	 0
+Add	
+GAT 251	  3 credits
+(GAT251F18-C)
+Morrison	LUMIÉRE
+  Mondays 3:00pm-4:50pm
+  Thursdays 3:00pm-4:50pm	
+Capacity	 18
+Enrollment	 19
+Available	 0
+Add	
+GAT 260	  3 credits
+(GAT260F18-A)
+Lukins	DA VINCI
+  Wednesdays 6:00pm-7:50pm
+
+AL-KHWARISMI
+  Mondays 6:00pm-7:20pm	
+Capacity	 18
+Enrollment	 18
+Available	 0
+Add	
+GAT 260	  3 credits
+(GAT260F18-B)
+Lukins	DA VINCI
+  Thursdays 5:30pm-7:20pm
+
+AL-KHWARISMI
+  Mondays 6:00pm-7:20pm	
+Capacity	 18
+Enrollment	 6
+Available	 12
+Add	
+GAT 261	  3 credits
+(GAT261F18-A)
+Hamrick	REYNAUD
+  Mondays 6:00pm-7:50pm
+  Wednesdays 8:00pm-9:50pm	
+Capacity	 18
+Enrollment	 19
+Available	 0
+Add	
+GAT 315	  3 credits
+(GAT315F18-A)
+Morrison	REYNAUD
+  Tuesdays 10:00am-11:50am
+  Thursdays 10:00am-11:50am	
+Capacity	 22
+Enrollment	 22
+Available	 0
+Add	
+GAT 316	  3 credits
+(GAT316F18-A)
+Rowan	REYNAUD
+  Mondays 3:00pm-4:50pm
+  Wednesdays 3:00pm-4:50pm	
+Capacity	 18
+Enrollment	 7
+Available	 11
+Add	
+GAT 316	  3 credits
+(GAT316F18-B)
+Rowan	MEILES
+  Tuesdays 5:00pm-6:50pm
+  Thursdays 5:00pm-6:50pm	
+Capacity	 18
+Enrollment	 13
+Available	 5
+Add	
+GAT 330	  3 credits
+(GAT330F18-A)
+Sward	TURING
+  Tuesdays 12:00pm-12:50pm
+
+VON NEWMANN
+  Fridays 1:30pm-3:20pm	
+Capacity	 24
+Enrollment	 21
+Available	 3
+Add	
+GAT 360	  3 credits
+(GAT360F18-A)
+Ash	AL-KHWARISMI
+  Wednesdays 6:00pm-7:20pm
+  Fridays 7:00pm-8:50pm	
+Capacity	 45
+Enrollment	 40
+Available	 5
+Add	
+GAT 360	  3 credits
+(GAT360F18-B)
+Radakovich	DA VINCI
+  Mondays 11:00am-12:20pm
+  Wednesdays 11:00am-12:50pm	
+Capacity	 36
+Enrollment	 13
+Available	 23
+Add	
+GAT 398	  3 credits
+(GAT398F18)
+Radakovich	PASCAL
+  Mondays 1:30pm-2:50pm
+  Wednesdays 1:30pm-2:50pm	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+GAT 399	  3 credits
+(GAT399F18-A)
+Radakovich	PASCAL
+  Wednesdays 1:30pm-2:50pm
+  Mondays 1:30pm-2:50pm	
+Capacity	 23
+Enrollment	 16
+Available	 7
+Add	
+GAT 405	  3 credits
+(GAT405F18-A)
+TBA	PASCAL
+  Mondays 7:30pm-8:50pm
+  Wednesdays 7:30pm-8:50pm	
+Capacity	 18
+Enrollment	 5
+Available	 13
+Add	
+JPN 101	  3 credits
+(JPN101F18-A)
+Ruscha	CARR
+  Tuesdays 12:00pm-1:20pm
+  Thursdays 12:00pm-1:20pm	
+Capacity	 24
+Enrollment	 25
+Available	 0
+Add	
+MAT 100	  4 credits
+(MAT100F18-A)
+Demetre	DESCARTES
+  Tuesdays 1:30pm-2:50pm
+  Thursdays 1:30pm-2:50pm
+
+PLATO
+  Thursdays 5:30pm-6:20pm	
+Capacity	 40
+Enrollment	 36
+Available	 4
+Add	
+MAT 105	  3 credits
+(MAT105F18-A)
+Kraft	DESCARTES
+  Fridays 9:00am-10:20am
+
+VAN GOGH
+  Mondays 12:30pm-1:50pm	
+Capacity	 45
+Enrollment	 30
+Available	 15
+Add	
+MAT 105	  3 credits
+(MAT105F18-B)
+Kraft	EUCLID
+  Fridays 5:30pm-6:50pm
+
+VAN GOGH
+  Mondays 4:30pm-5:50pm	
+Capacity	 45
+Enrollment	 35
+Available	 10
+Add	
+MAT 120	  3 credits
+(MAT120F18-A)
+Klassen	JIMBO
+  Wednesdays 12:00pm-12:50pm
+  Fridays 12:00pm-12:50pm
+
+MATHEWS
+  Fridays 9:00am-10:50am	
+Capacity	 20
+Enrollment	 17
+Available	 3
+Add	
+MAT 140	  4 credits
+(MAT140F18-A)
+Boerkoel	DESCARTES
+  Mondays 1:30pm-2:50pm
+  Wednesdays 1:30pm-2:50pm
+
+VAN GOGH
+  Thursdays 12:30pm-2:20pm	
+Capacity	 40
+Enrollment	 42
+Available	 0
+Add	
+MAT 140	  4 credits
+(MAT140F18-B)
+Boerkoel	WANIC _CS
+  Tuesdays 10:30am-11:50am
+  Thursdays 10:30am-11:50am
+  Thursdays 12:30pm-2:20pm	
+Capacity	 30
+Enrollment	 29
+Available	 1
+Add	
+MAT 140	  4 credits
+(MAT140F18-C)
+Young	DESCARTES
+  Mondays 12:00pm-1:20pm
+  Wednesdays 12:00pm-1:20pm
+
+MICHELANGELO
+  Tuesdays 2:00pm-3:50pm	
+Capacity	 40
+Enrollment	 41
+Available	 0
+Add	
+MAT 140	  4 credits
+(MAT140F18-D)
+Young	MICHELANGELO
+  Tuesdays 12:00pm-1:20pm
+  Thursdays 12:00pm-1:20pm
+  Tuesdays 2:00pm-3:50pm	
+Capacity	 40
+Enrollment	 40
+Available	 0
+Add	
+MAT 150	  4 credits
+(MAT150F18-A)
+Kraft	BLANC
+  Tuesdays 10:30am-11:50am
+  Thursdays 10:30am-11:50am
+
+DESCARTES
+  Thursdays 9:00am-9:50am	
+Capacity	 30
+Enrollment	 12
+Available	 18
+Add	
+MAT 200	  4 credits
+(MAT200F18-A)
+Bede	PLATO
+  Thursdays 4:30pm-5:50pm
+
+EUCLID
+  Mondays 11:00am-11:50am
+
+VAN GOGH
+  Tuesdays 4:30pm-5:50pm	
+Capacity	 40
+Enrollment	 40
+Available	 0
+Add	
+MAT 200	  4 credits
+(MAT200F18-B)
+Demetre	EUCLID
+  Tuesdays 3:30pm-4:50pm
+  Thursdays 3:30pm-4:50pm
+
+PLATO
+  Tuesdays 5:30pm-6:20pm	
+Capacity	 40
+Enrollment	 40
+Available	 0
+Add	
+MAT 225	  3 credits
+(MAT225F18-A)
+Vermesi	HOPPER
+  Tuesdays 10:30am-11:50am
+  Thursdays 10:30am-11:50am	
+Capacity	 16
+Enrollment	 11
+Available	 5
+Add	
+MAT 230	  4 credits
+(MAT230F18-A)
+Bede	CARR
+  Mondays 2:00pm-3:20pm
+  Wednesdays 2:00pm-3:20pm
+
+PASCAL
+  Tuesdays 12:30pm-1:20pm	
+Capacity	 10
+Enrollment	 6
+Available	 4
+Add	
+MAT 250	  3 credits
+(MAT250F18-A)
+Young	PASCAL
+  Tuesdays 9:30am-10:50am
+  Thursdays 9:30am-10:50am	
+Capacity	 40
+Enrollment	 8
+Available	 32
+Add	
+MAT 258	  3 credits
+(MAT258F18-A)
+Vermesi	MICHELANGELO
+  Tuesdays 4:30pm-5:50pm
+  Thursdays 4:30pm-5:50pm	
+Capacity	 75
+Enrollment	 68
+Available	 7
+Add	
+MAT 320	  3 credits
+(MAT320F18-A)
+Klassen	HOPPER
+  Tuesdays 9:00am-10:20am
+  Thursdays 9:00am-10:20am	
+Capacity	 16
+Enrollment	 14
+Available	 2
+Add	
+MAT 340	  3 credits
+(MAT340F18-A)
+TBA	CARR
+  Tuesdays 3:00pm-4:20pm
+  Thursdays 3:00pm-4:20pm	
+Capacity	 24
+Enrollment	 19
+Available	 5
+Add	
+MAT 345	  3 credits
+(MAT345F18-A)
+Vermesi	VON NEWMANN
+  Mondays 9:00am-10:20am
+  Wednesdays 9:00am-10:20am	
+Capacity	 30
+Enrollment	 10
+Available	 20
+Add	
+MAT 361	  3 credits
+(MAT361F18-A)
+Boerkoel	JIMBO
+  Mondays 9:00am-10:20am
+  Wednesdays 9:00am-10:20am	
+Capacity	 25
+Enrollment	 4
+Available	 21
+Add	
+MAT 362	  3 credits
+(MAT362F18-A)
+Bede	MICHELANGELO
+  Wednesdays 3:30pm-4:50pm
+  Fridays 3:30pm-4:50pm	
+Capacity	 30
+Enrollment	 19
+Available	 11
+Add	
+MAT 364	  3 credits
+(MAT364F18-A)
+Klassen	VON NEWMANN
+  Mondays 3:00pm-4:20pm
+  Wednesdays 3:00pm-4:20pm	
+Capacity	 24
+Enrollment	 17
+Available	 7
+Add	
+MAT 561	  3 credits
+(MAT561F18)
+Boerkoel	JIMBO
+  Mondays 9:00am-10:20am
+  Wednesdays 9:00am-10:20am	
+Capacity	 5
+Enrollment	 0
+Available	 5
+Add	
+MAT 562	  3 credits
+(MAT562F18)
+Bede	MICHELANGELO
+  Wednesdays 3:30pm-4:50pm
+  Fridays 3:30pm-4:50pm	
+Capacity	 5
+Enrollment	 3
+Available	 2
+Add	
+MAT 564	  3 credits
+(MAT564F18)
+Klassen	VON NEWMANN
+  Mondays 3:00pm-4:20pm
+  Wednesdays 3:00pm-4:20pm	
+Capacity	 5
+Enrollment	 5
+Available	 0
+Add	
+MCM 600	  1 credits
+(MCM600F18-A)
+Volper	GIBRAN
+  Fridays 7:00pm-7:50pm	
+Capacity	 5
+Enrollment	 2
+Available	 3
+Add	
+MCM 600	  1 credits
+(MCM600F18-B)
+Henne	VILLA-LOBOS
+  Fridays 7:00pm-7:50pm	
+Capacity	 5
+Enrollment	 0
+Available	 5
+Add	
+MUS 112	  1 credits
+(MUS112F18-A)
+O'Bent	MATHEWS
+  Tuesdays 11:00am-12:50pm	
+Capacity	 30
+Enrollment	 21
+Available	 9
+Add	
+MUS 113	  1 credits
+(MUS113F18)
+O'Bent	MATHEWS
+  Tuesdays 11:00am-12:50pm	
+Capacity	 2
+Enrollment	 3
+Available	 0
+Add	
+MUS 115	  3 credits
+(MUS115F18-A)
+Saulls	DA VINCI
+  Tuesdays 12:00pm-1:20pm
+  Thursdays 12:00pm-1:20pm	
+Capacity	 36
+Enrollment	 29
+Available	 7
+Add	
+MUS 115	  3 credits
+(MUS115F18-B)
+Saulls	DA VINCI
+  Tuesdays 2:00pm-3:20pm
+  Thursdays 2:00pm-3:20pm	
+Capacity	 36
+Enrollment	 22
+Available	 14
+Add	
+MUS 116	  1 credits
+(MUS116F18-A)
+Stark	RICH
+  Mondays 11:30am-1:20pm	
+Capacity	 12
+Enrollment	 3
+Available	 9
+Add	
+MUS 116	  1 credits
+(MUS116F18-B)
+Likkel	RICH
+  Thursdays 4:00pm-5:50pm	
+Capacity	 12
+Enrollment	 0
+Available	 12
+Add	
+MUS 117	  1 credits
+(MUS117F18-A)
+Stark	RICH
+  Mondays 11:30am-1:20pm	
+Capacity	 12
+Enrollment	 1
+Available	 11
+Add	
+MUS 117	  1 credits
+(MUS117F18-B)
+Likkel	RICH
+  Thursdays 4:00pm-5:50pm	
+Capacity	 2
+Enrollment	 1
+Available	 1
+Add	
+MUS 118	  1 credits
+(MUS118F18-A)
+O'Bent	RICH
+  Thursdays 10:00am-11:50am	
+Capacity	 12
+Enrollment	 0
+Available	 12
+Add	
+MUS 119	  1 credits
+(MUS119F18)
+O'Bent	RICH
+  Thursdays 10:00am-11:50am	
+Capacity	 2
+Enrollment	 0
+Available	 2
+Add	
+MUS 120	  2 credits
+(MUS120F18-A)
+Yoder	MATHEWS
+  Wednesdays 2:00pm-3:50pm	
+Capacity	 30
+Enrollment	 23
+Available	 7
+Add	
+MUS 120L	  1 credits
+(MUS120LF18-A)
+Yoder	MATHEWS
+  Mondays 11:00am-12:50pm	
+Capacity	 16
+Enrollment	 14
+Available	 2
+Add	
+MUS 120L	  1 credits
+(MUS120LF18-B)
+Yoder	MATHEWS
+  Mondays 1:30pm-3:20pm	
+Capacity	 16
+Enrollment	 8
+Available	 8
+Add	
+MUS 150	  2 credits
+(MUS150F18-A)
+Schwedler	BOULANGER
+  Mondays 6:00pm-7:50pm	
+Capacity	 15
+Enrollment	 14
+Available	 1
+Add	
+MUS 150L	  2 credits
+(MUS150LF18-A)
+Schwedler	BOULANGER
+  Tuesdays 5:30pm-7:20pm
+  Wednesdays 9:00am-10:50am	
+Capacity	 15
+Enrollment	 14
+Available	 1
+Add	
+MUS 212	  1 credits
+(MUS212F18)
+O'Bent	MATHEWS
+  Tuesdays 11:00am-12:50pm	
+Capacity	 30
+Enrollment	 11
+Available	 19
+Add	
+MUS 213	  1 credits
+(MUS213F18)
+O'Bent	MATHEWS
+  Tuesdays 11:00am-12:50pm	
+Capacity	 2
+Enrollment	 0
+Available	 2
+Add	
+MUS 216	  1 credits
+(MUS216F18-A)
+Stark	RICH
+  Mondays 11:30am-1:20pm	
+Capacity	 2
+Enrollment	 1
+Available	 1
+Add	
+MUS 216	  1 credits
+(MUS216F18-B)
+Likkel	RICH
+  Thursdays 4:00pm-5:50pm	
+Capacity	 2
+Enrollment	 0
+Available	 2
+Add	
+MUS 217	  1 credits
+(MUS217F18-A)
+Stark	RICH
+  Mondays 11:30am-1:20pm	
+Capacity	 2
+Enrollment	 0
+Available	 2
+Add	
+MUS 217	  1 credits
+(MUS217F18-B)
+Likkel	RICH
+  Thursdays 4:00pm-5:50pm	
+Capacity	 2
+Enrollment	 0
+Available	 2
+Add	
+MUS 218	  1 credits
+(MUS218F18)
+O'Bent	RICH
+  Thursdays 10:00am-11:50am	
+Capacity	 2
+Enrollment	 1
+Available	 1
+Add	
+MUS 219	  1 credits
+(MUS219F18)
+O'Bent	RICH
+  Thursdays 10:00am-11:50am	
+Capacity	 2
+Enrollment	 1
+Available	 1
+Add	
+MUS 220	  2 credits
+(MUS220F18-A)
+Stark	BOULANGER
+  Fridays 10:00am-11:50am	
+Capacity	 15
+Enrollment	 9
+Available	 6
+Add	
+MUS 220L	  1 credits
+(MUS220LF18-A)
+Stark	BOULANGER
+  Wednesdays 1:30pm-3:20pm	
+Capacity	 15
+Enrollment	 9
+Available	 6
+Add	
+MUS 230	  2 credits
+(MUS230F18-A)
+Stark	BOULANGER
+  Thursdays 10:00am-11:50am	
+Capacity	 15
+Enrollment	 9
+Available	 6
+Add	
+MUS 240	  1 credits
+(MUS240F18)
+Saulls	EDISON
+  Fridays 1:00pm-4:50pm	
+Capacity	 15
+Enrollment	 9
+Available	 6
+Add	
+MUS 250	  1 credits
+(MUS250F18-A)
+Brown	RICH
+  Wednesdays 6:00pm-6:50pm	
+Capacity	 12
+Enrollment	 10
+Available	 2
+Add	
+MUS 250L	  2 credits
+(MUS250LF18-A)
+Brown	RICH
+  Mondays 2:00pm-3:50pm
+
+MATHEWS
+  Wednesdays 7:00pm-8:50pm	
+Capacity	 12
+Enrollment	 10
+Available	 2
+Add	
+MUS 260	  3 credits
+(MUS260F18-A)
+O'Bent	BOULANGER
+  Tuesdays 1:30pm-2:50pm
+  Thursdays 1:30pm-2:50pm	
+Capacity	 15
+Enrollment	 9
+Available	 6
+Add	
+MUS 280	  3 credits
+(MUS280F18-A)
+Borchers	BOULANGER
+  Mondays 10:00am-11:20am
+
+RICH
+  Wednesdays 10:00am-11:20am	
+Capacity	 12
+Enrollment	 6
+Available	 6
+Add	
+MUS 306	  1 credits
+(MUS306F18-A)
+Stark	RICH
+  Mondays 11:30am-1:20pm	
+Capacity	 2
+Enrollment	 2
+Available	 0
+Add	
+MUS 306	  1 credits
+(MUS306F18-B)
+Likkel	RICH
+  Thursdays 4:00pm-5:50pm	
+Capacity	 2
+Enrollment	 0
+Available	 2
+Add	
+MUS 307	  1 credits
+(MUS307F18-A)
+Stark	RICH
+  Mondays 11:30am-1:20pm	
+Capacity	 2
+Enrollment	 2
+Available	 0
+Add	
+MUS 307	  1 credits
+(MUS307F18-B)
+Likkel	RICH
+  Thursdays 4:00pm-5:50pm	
+Capacity	 2
+Enrollment	 0
+Available	 2
+Add	
+MUS 312	  1 credits
+(MUS312F18)
+O'Bent	MATHEWS
+  Tuesdays 11:00am-12:50pm	
+Capacity	 2
+Enrollment	 2
+Available	 0
+Add	
+MUS 313	  1 credits
+(MUS313F18)
+O'Bent	MATHEWS
+  Tuesdays 11:00am-12:50pm	
+Capacity	 2
+Enrollment	 0
+Available	 2
+Add	
+MUS 320	  2 credits
+(MUS320F18-A)
+O'Bent	BOULANGER
+  Wednesdays 11:30am-1:20pm	
+Capacity	 15
+Enrollment	 7
+Available	 8
+Add	
+MUS 330	  3 credits
+(MUS330F18-A)
+Stark	BOULANGER
+  Mondays 3:00pm-5:50pm	
+Capacity	 15
+Enrollment	 7
+Available	 8
+Add	
+MUS 340	  1 credits
+(MUS340F18)
+Dixon	EDISON
+  Fridays 9:00am-12:50pm	
+Capacity	 15
+Enrollment	 6
+Available	 9
+Add	
+MUS 350	  1 credits
+(MUS350F18-A)
+Dixon	MATHEWS
+  Tuesdays 1:00pm-1:50pm	
+Capacity	 15
+Enrollment	 6
+Available	 9
+Add	
+MUS 350L	  2 credits
+(MUS350LF18-A)
+Dixon	MATHEWS
+  Tuesdays 2:00pm-3:50pm
+  Thursdays 9:00am-10:50am	
+Capacity	 15
+Enrollment	 6
+Available	 9
+Add	
+MUS 370	  1 credits
+(MUS370F18-A)
+Dixon	MATHEWS
+  Wednesdays 11:00am-11:50am	
+Capacity	 15
+Enrollment	 9
+Available	 6
+Add	
+MUS 370L	  2 credits
+(MUS370LF18-A)
+Dixon	MATHEWS
+  Wednesdays 12:00pm-1:50pm
+  Fridays 1:30pm-3:20pm	
+Capacity	 15
+Enrollment	 9
+Available	 6
+Add	
+MUS 399	  3 credits
+(MUS399F18-A)
+Schwedler	DOWD
+  Mondays 10:00am-12:50pm	
+Capacity	 7
+Enrollment	 3
+Available	 4
+Add	
+MUS 399	  3 credits
+(MUS399F18-I)
+Dixon	Independent	
+Capacity	 1
+Enrollment	 1
+Available	 0
+Add	
+MUS 406	  1 credits
+(MUS406F18-A)
+Stark	RICH
+  Mondays 11:30am-1:20pm	
+Capacity	 2
+Enrollment	 0
+Available	 2
+Add	
+MUS 406	  1 credits
+(MUS406F18-B)
+Likkel	RICH
+  Thursdays 4:00pm-5:50pm	
+Capacity	 2
+Enrollment	 0
+Available	 2
+Add	
+MUS 412	  1 credits
+(MUS412F18)
+O'Bent	MATHEWS
+  Tuesdays 11:00am-12:50pm	
+Capacity	 2
+Enrollment	 2
+Available	 0
+Add	
+MUS 450	  1 credits
+(MUS450F18-A)
+Schmidt	MATHEWS
+  Thursdays 11:30am-12:20pm	
+Capacity	 15
+Enrollment	 13
+Available	 2
+Add	
+MUS 450L	  2 credits
+(MUS450LF18)
+Schmidt	EDISON
+  Fridays 9:00am-12:50pm
+
+MATHEWS
+  Thursdays 1:00pm-2:50pm	
+Capacity	 15
+Enrollment	 13
+Available	 2
+Add	
+MUS 470	  1 credits
+(MUS470F18-A)
+Klassen	PASCAL
+  Tuesdays 11:00am-11:50am	
+Capacity	 16
+Enrollment	 2
+Available	 14
+Add	
+MUS 470L	  2 credits
+(MUS470LF18-A)
+Klassen	MATHEWS
+  Mondays 9:00am-10:50am
+  Tuesdays 5:00pm-6:50pm	
+Capacity	 16
+Enrollment	 2
+Available	 14
+Add	
+PHL 150	  3 credits
+(PHL150F18-A)
+Adams	BLANC
+  Mondays 12:30pm-1:50pm
+  Wednesdays 12:30pm-1:50pm	
+Capacity	 24
+Enrollment	 4
+Available	 20
+Add	
+PHY 116	  3 credits
+(PHY116F18-A)
+Solorzano	HOPPER
+  Wednesdays 1:30pm-2:50pm
+  Fridays 1:30pm-2:50pm	
+Capacity	 10
+Enrollment	 7
+Available	 3
+Add	
+PHY 199	  3 credits
+(PHY199F18-A)
+Liepert	VAN GOGH
+  Wednesdays 4:00pm-5:20pm
+  Fridays 5:30pm-6:50pm	
+Capacity	 50
+Enrollment	 23
+Available	 27
+Add	
+PHY 200	  4 credits
+(PHY200F18-A)
+Shah	EUCLID
+  Mondays 12:00pm-1:20pm
+  Wednesdays 12:00pm-1:20pm
+
+MICHELANGELO
+  Thursdays 1:30pm-2:20pm	
+Capacity	 45
+Enrollment	 32
+Available	 13
+Add	
+PHY 200L	  1 credits
+(PHY200LF18-A)
+Shah	HOPPER
+  Mondays 9:00am-10:50am	
+Capacity	 16
+Enrollment	 17
+Available	 0
+Add	
+PHY 250	  4 credits
+(PHY250F18-A)
+Thirumalai	JIMBO
+  Mondays 10:30am-11:50am
+  Wednesdays 10:30am-11:50am
+
+DESCARTES
+  Fridays 1:00pm-1:50pm	
+Capacity	 35
+Enrollment	 35
+Available	 0
+Add	
+PHY 250L	  1 credits
+(PHY250LF18-A)
+Roberson	HOPPER
+  Fridays 3:30pm-5:20pm	
+Capacity	 16
+Enrollment	 11
+Available	 5
+Add	
+PHY 290	  3 credits
+(PHY290F18-A)
+Solorzano	SOCRATES
+  Tuesdays 4:00pm-5:20pm
+  Thursdays 4:00pm-5:20pm	
+Capacity	 20
+Enrollment	 1
+Available	 19
+Add	
+PHY 300	  3 credits
+(PHY300F18-A)
+Thirumalai	SOCRATES
+  Thursdays 10:00am-11:20am
+  Tuesdays 10:00am-11:20am	
+Capacity	 10
+Enrollment	 5
+Available	 5
+Add	
+PHY 320	  3 credits
+(PHY320F18-A)
+Roberson	BOULANGER
+  Thursdays 4:00pm-5:20pm
+
+BLANC
+  Tuesdays 9:00am-10:20am	
+Capacity	 10
+Enrollment	 2
+Available	 8
+Add	
+PHY 500	  3 credits
+(PHY500F18)
+Thirumalai	SOCRATES
+  Thursdays 10:00am-11:20am
+  Tuesdays 10:00am-11:20am	
+Capacity	 10
+Enrollment	 9
+Available	 1
+Add	
+PRJ 201	  4 credits
+(PRJ201F18-A)
+Daly	MCCAY
+  Wednesdays 1:00pm-3:20pm
+  Fridays 9:30am-12:20pm	
+Capacity	 18
+Enrollment	 4
+Available	 14
+Add	
+PRJ 201	  4 credits
+(PRJ201F18-B)
+Daly	MCCAY
+  Thursdays 1:00pm-3:20pm
+  Mondays 9:30am-12:20pm	
+Capacity	 18
+Enrollment	 7
+Available	 11
+Add	
+PRJ 202	  4 credits
+(PRJ202F18-A)
+Brunner	CURIE
+  Mondays 11:30am-12:50pm
+
+EDISON
+  Fridays 1:00pm-4:50pm	
+Capacity	 28
+Enrollment	 25
+Available	 3
+Add	
+PRJ 202	  4 credits
+(PRJ202F18-B)
+Brunner	REYNAUD
+  Mondays 9:00am-10:20am
+
+EDISON
+  Fridays 1:00pm-4:50pm	
+Capacity	 28
+Enrollment	 26
+Available	 2
+Add	
+PRJ 300	  4 credits
+(PRJ300F18-A)
+TBA	CURIE
+  Wednesdays 1:30pm-3:50pm
+  Fridays 1:30pm-3:50pm	
+Capacity	 15
+Enrollment	 17
+Available	 0
+Add	
+PRJ 300	  4 credits
+(PRJ300F18-B)
+TBA	REYNAUD
+  Tuesdays 3:30pm-5:50pm
+  Thursdays 3:30pm-5:50pm	
+Capacity	 15
+Enrollment	 12
+Available	 3
+Add	
+PRJ 300	  4 credits
+(PRJ300F18-C)
+TBA	TURING
+  Tuesdays 9:00am-11:20am
+  Thursdays 9:00am-11:20am	
+Capacity	 15
+Enrollment	 10
+Available	 5
+Add	
+PRJ 300	  4 credits
+(PRJ300F18-D)
+TBA	CURIE
+  Mondays 9:00am-11:20am
+  Wednesdays 9:00am-11:20am	
+Capacity	 15
+Enrollment	 7
+Available	 8
+Add	
+PRJ 400	  4 credits
+(PRJ400F18)
+Henne	MEILES
+  Tuesdays 7:00pm-9:50pm
+  Fridays 3:00pm-5:20pm	
+Capacity	 24
+Enrollment	 19
+Available	 5
+Add	
+PRJ 402	  4 credits
+(PRJ402F18)
+Schneuwly	PLATO
+  Wednesdays 10:30am-1:20pm
+
+EDISON
+  Fridays 9:00am-12:50pm
+
+Project Meetings	
+Capacity	 50
+Enrollment	 43
+Available	 7
+Add	
+PRJ 510	  3 credits
+(PRJ510F18)
+Samson	CURIE
+  Tuesdays 1:30pm-4:20pm
+
+EDISON
+  Fridays 9:00am-12:50pm	
+Capacity	 5
+Enrollment	 0
+Available	 5
+Add	
+PRJ 601	  3 credits
+(PRJ601F18-A)
+Henne	CURIE
+  Tuesdays 10:00am-12:50pm	
+Capacity	 15
+Enrollment	 11
+Available	 4
+Add	
+PSY 101	  3 credits
+(PSY101F18-A)
+TBA	VON NEWMANN
+  Tuesdays 12:30pm-1:50pm
+  Thursdays 12:30pm-1:50pm	
+Capacity	 32
+Enrollment	 29
+Available	 3
+Add	
+PSY 101	  3 credits
+(PSY101F18-B)
+TBA	VAN GOGH
+  Wednesdays 12:00pm-1:20pm
+  Fridays 12:00pm-1:20pm	
+Capacity	 32
+Enrollment	 19
+Available	 13
+Add	
+PSY 101	  3 credits
+(PSY101F18-C)
+TBA	JIMBO
+  Tuesdays 9:00am-10:20am
+  Thursdays 9:00am-10:20am	
+Capacity	 32
+Enrollment	 33
+Available	 0
+Add	
+PSY 101	  3 credits
+(PSY101F18-D)
+Simon	CARR
+  Tuesdays 9:00am-10:20am
+  Thursdays 9:00am-10:20am	
+Capacity	 24
+Enrollment	 23
+Available	 1
+Add	
+PSY 210	  3 credits
+(PSY210F18-A)
+Hemovich	DESCARTES
+  Tuesdays 3:00pm-4:20pm
+  Thursdays 3:00pm-4:20pm	
+Capacity	 24
+Enrollment	 13
+Available	 11
+Add	
+PSY 210	  3 credits
+(PSY210F18-B)
+Hemovich	DESCARTES
+  Tuesdays 10:00am-11:20am
+  Thursdays 10:00am-11:20am	
+Capacity	 24
+Enrollment	 19
+Available	 5
+Add	
+SOS 115	  3 credits
+(SOS115F18-A)
+Choi	CARR
+  Wednesdays 11:00am-12:20pm
+  Fridays 11:00am-12:20pm	
+Capacity	 24
+Enrollment	 18
+Available	 6
+ 
