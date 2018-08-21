@@ -103,7 +103,7 @@ def parseClass():
                 pass
 
             if classLines[i].find('Independent') >= 0:
-                class_schedules.extend(['empty'] * 3)
+                class_schedules.extend(['empty'] * MAX_CLASS_SCHEDULE)
                 state = ''
                 continue
             count, next_line = parse_classroom(i)
